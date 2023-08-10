@@ -1,4 +1,4 @@
-## Mathematics
+## Applied Mathematics
 
 ### 💸 Financial Planning for a Newborn's College Fund
 - ****Problem Statement****: Advise a client on how to save money toward their newborn baby's future college education, namely by answering the question *"How much would they need to save per month to be reasonably certain that they have at least \$ 60,000 in the account after 18 years"* while taking into account the stochastic nature of the stock market, the volatility of different investment types, as well as the client's potential for higher incomes over time.
